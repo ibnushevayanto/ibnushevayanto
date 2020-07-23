@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/ZZv4cIy21A23e/giphy.gif" width="80px"/><br>
 ###### 👤 About 
-  <samp>Hi. I'm Ibnu. I usually work using vue, laravel and codeigniter 3. My current work is making an EHCM application for the one of state-owned enterprises in Indonesia ✨.</samp>
+  <samp>Hi. I'm Ibnu. I usually work using vue, laravel and codeigniter 3.</samp>
 <br>
 ###### 🎯 My 2020 Goals
 > - [x] <samp>Learn Vue</samp>
