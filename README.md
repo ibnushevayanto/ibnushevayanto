@@ -9,6 +9,6 @@ Reach me on [LinkedIn](https://linkedin.com/in/ibnushevayanto26) &bull; [Instagr
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibnushevayanto&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnushevayanto&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibnushevayanto&show_icons=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff&border_color=30363d" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnushevayanto&layout=compact&langs_count=6&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d" height="165" alt="Top Languages" />
 </p>
